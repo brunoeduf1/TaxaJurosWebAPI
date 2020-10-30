@@ -5,7 +5,14 @@ using System.Threading.Tasks;
 
 namespace TaxaJurosWebAPI.Models
 {
-    public class taxajuros
+    public class Taxa
     {
+        public double taxajuros { get; set; }
+
+        public Taxa() { }
+        public void GetTaxa()
+        {
+            taxajuros = 0.01;
+        }
     }
 }
