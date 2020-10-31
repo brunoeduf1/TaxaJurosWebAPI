@@ -10,13 +10,13 @@ namespace TaxaJurosWebAPI.Controllers
 {
     [Route("[controller]")]
     [ApiController]
-    public class taxajurosController : ControllerBase
+    public class calculajurosController : ControllerBase
     {
-        [HttpGet("/taxaJuros")]
-        public Taxa Get() 
+        [HttpGet("/calculajuros-valorinicial={val}&meses={m}")]
+        public calculajuros Get(int val, int m)
         {
-            Taxa n = new Taxa();
-            n.GetTaxa();
+            calculajuros n = new calculajuros();
+            n.calcularesultado(val, m);
 
             return n;
         }

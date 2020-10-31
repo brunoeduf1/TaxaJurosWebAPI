@@ -10,9 +10,10 @@ namespace TaxaJurosWebAPI.Models
         public double taxajuros { get; set; }
 
         public Taxa() { }
-        public void GetTaxa()
+
+        public double GetTaxa()
         {
-            taxajuros = 0.01;
+            return taxajuros = 0.01;
         }
     }
 }
