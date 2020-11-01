@@ -10,10 +10,10 @@ namespace TaxaJurosWebAPI.Controllers
         [HttpGet("/taxaJuros")]
         public Taxa Get() 
         {
-            Taxa n = new Taxa();
-            n.GetTaxa();
+            Taxa tx = new Taxa();
+            tx.GetTaxa();
 
-            return n;
+            return tx;
         }
     }
 }
