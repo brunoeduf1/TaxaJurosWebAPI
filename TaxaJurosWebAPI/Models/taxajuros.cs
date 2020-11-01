@@ -1,19 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Globalization;
 
 namespace TaxaJurosWebAPI.Models
 {
     public class Taxa
     {
-        public double taxajuros { get; set; }
+        public string taxajuros { get; set; }
 
         public Taxa() { }
 
         public double GetTaxa()
         {
-            return taxajuros = 0.01;
+            double tx = 0.01;
+            taxajuros = tx.ToString("F2", CultureInfo.CurrentCulture);
+
+            return tx;
         }
     }
 }
