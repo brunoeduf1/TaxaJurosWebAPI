@@ -11,7 +11,7 @@ namespace CalculaJurosWebAPI.Controllers
         public showmethecode Get()
         {
             showmethecode repgit = new showmethecode();
-            repgit.urlGet();
+            repgit.UrlGet();
 
             return repgit;
         }

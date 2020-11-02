@@ -19,3 +19,4 @@ C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebAPI\obj\Debug\net
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebAPI\obj\Debug\netcoreapp2.1\CalculaJurosWebAPI.dll
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebAPI\obj\Debug\netcoreapp2.1\CalculaJurosWebAPI.pdb
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebAPI\obj\Debug\netcoreapp2.1\CalculaJurosWebAPI.genruntimeconfig.cache
+C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebAPI\bin\Debug\netcoreapp2.1\libman.json

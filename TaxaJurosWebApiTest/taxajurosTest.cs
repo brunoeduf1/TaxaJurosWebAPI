@@ -1,13 +1,10 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using TaxaJurosWebAPI.Models;
-using System.Globalization;
-using System;
-using Microsoft.VisualStudio.TestPlatform.ObjectModel.Utilities;
 
 namespace TaxaJurosWebApiTest
 {
     [TestClass]
-    public class taxajurosTest
+    public class TaxaJurosTest
     {
         //Testa se a taxa é 0.01
         [TestMethod]

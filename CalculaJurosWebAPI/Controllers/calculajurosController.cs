@@ -7,11 +7,11 @@ namespace CalculaJurosWebAPI.Controllers
     [ApiController]
     public class calculajurosController : ControllerBase
     {
-        [HttpGet("/calculajuros-valorinicial={val}&meses={m}")]
-        public calculajuros Get(int val, int m)
+        [HttpGet("/calculajuros-valorinicial={valor}&meses={meses}")]
+        public CalculaJuros Get(string valor, uint meses)
         {
-            calculajuros calc = new calculajuros();
-            calc.calcularesultado(val, m);
+            CalculaJuros calc = new CalculaJuros();
+            calc.CalculaResultado(valor, meses);
 
             return calc;
         }

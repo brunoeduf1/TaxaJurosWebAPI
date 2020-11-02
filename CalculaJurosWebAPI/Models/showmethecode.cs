@@ -5,7 +5,7 @@ namespace CalculaJurosWebAPI.Models
     {
         public string url { get; set; }
 
-        public void urlGet()
+        public void UrlGet()
         {
             url = "https://github.com/brunoeduf1/TaxaJurosWebAPI";
         }

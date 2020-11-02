@@ -97,3 +97,4 @@ C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\TaxaJurosWebApiTest\obj\Debug\ne
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\TaxaJurosWebApiTest\obj\Debug\netcoreapp3.1\TaxaJurosWebApiTest.pdb
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\TaxaJurosWebApiTest\obj\Debug\netcoreapp3.1\TaxaJurosWebApiTest.genruntimeconfig.cache
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\TaxaJurosWebApiTest\obj\Debug\netcoreapp3.1\TaxaJurosWebApiTest.csprojAssemblyReference.cache
+C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\TaxaJurosWebApiTest\bin\Debug\netcoreapp3.1\libman.json
