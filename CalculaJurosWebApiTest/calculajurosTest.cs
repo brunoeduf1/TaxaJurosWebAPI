@@ -15,7 +15,7 @@ namespace CalculaJurosWebApiTest
         [Owner("Bruno")]
         public void TestConversionType()
         {
-            uint x = 100;
+            double x = 100.0;
             uint y = 5;
             double r;
             string res;
@@ -34,7 +34,7 @@ namespace CalculaJurosWebApiTest
         [Owner("Bruno")]
         public void TestResult()
         {
-            uint x = 1;
+            double x = 1.0;
             uint y = 0;
             double r;
             string res;
@@ -53,7 +53,7 @@ namespace CalculaJurosWebApiTest
         [Owner("Bruno")]
         public void TestResultType()
         {
-            uint x = 100;
+            double x = 100.0;
             uint y = 5;
             double r;
 
@@ -69,7 +69,7 @@ namespace CalculaJurosWebApiTest
         [Owner("Bruno")]
         public void TestResultAboveOrEqualZero()
         {
-            uint x = 100;
+            double x = 100.0;
             uint y = 0;
             double r;
 

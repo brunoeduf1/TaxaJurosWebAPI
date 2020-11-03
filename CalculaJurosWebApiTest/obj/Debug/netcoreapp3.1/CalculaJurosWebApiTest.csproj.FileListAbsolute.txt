@@ -100,3 +100,7 @@ C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebApiTest\bin\Debug
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebApiTest\bin\Debug\netcoreapp3.1\TaxaJurosWebAPI.dll
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebApiTest\bin\Debug\netcoreapp3.1\CalculaJurosWebAPI.pdb
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebApiTest\bin\Debug\netcoreapp3.1\TaxaJurosWebAPI.pdb
+C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebApiTest\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebApiTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebApiTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebApiTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
