@@ -3,6 +3,8 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <LangVersion>preview</LangVersion>
+    <UserSecretsId>822bbdd4-9451-4c64-b419-9a42644dfa94</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
   </PropertyGroup>
 
   <ItemGroup>
@@ -10,8 +12,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Docker.DotNet" Version="3.125.4" />
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.9" />
     <PackageReference Include="SwashBuckle.AspNetCore" Version="5.6.3" />
   </ItemGroup>
 

@@ -11,7 +11,6 @@ C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebAPI\bin\Debug\net
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebAPI\obj\Debug\netcoreapp2.1\CalculaJurosWebAPI.csprojAssemblyReference.cache
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebAPI\obj\Debug\netcoreapp2.1\CalculaJurosWebAPI.AssemblyInfoInputs.cache
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebAPI\obj\Debug\netcoreapp2.1\CalculaJurosWebAPI.AssemblyInfo.cs
-C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebAPI\obj\Debug\netcoreapp2.1\CalculaJurosWebAPI.csproj.CoreCompileInputs.cache
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebAPI\obj\Debug\netcoreapp2.1\CalculaJurosWebAPI.RazorAssemblyInfo.cache
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebAPI\obj\Debug\netcoreapp2.1\CalculaJurosWebAPI.RazorAssemblyInfo.cs
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebAPI\obj\Debug\netcoreapp2.1\CalculaJurosWebAPI.RazorTargetAssemblyInfo.cache
@@ -20,3 +19,5 @@ C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebAPI\obj\Debug\net
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebAPI\obj\Debug\netcoreapp2.1\CalculaJurosWebAPI.pdb
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebAPI\obj\Debug\netcoreapp2.1\CalculaJurosWebAPI.genruntimeconfig.cache
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebAPI\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebAPI\obj\Debug\netcoreapp2.1\CalculaJurosWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebAPI\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs

@@ -11,7 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("ef088142-333c-40d5-a823-e6626904b371")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("822bbdd4-9451-4c64-b419-9a42644dfa94")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
 

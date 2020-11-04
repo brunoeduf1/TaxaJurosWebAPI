@@ -87,7 +87,6 @@ C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebApiTest\bin\Debug
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebApiTest\obj\Debug\netcoreapp3.1\CalculaJurosWebApiTest.csprojAssemblyReference.cache
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebApiTest\obj\Debug\netcoreapp3.1\CalculaJurosWebApiTest.AssemblyInfoInputs.cache
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebApiTest\obj\Debug\netcoreapp3.1\CalculaJurosWebApiTest.AssemblyInfo.cs
-C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebApiTest\obj\Debug\netcoreapp3.1\CalculaJurosWebApiTest.csproj.CoreCompileInputs.cache
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebApiTest\obj\Debug\netcoreapp3.1\CalculaJurosWebApiTest.csproj.CopyComplete
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebApiTest\obj\Debug\netcoreapp3.1\CalculaJurosWebApiTest.dll
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebApiTest\obj\Debug\netcoreapp3.1\CalculaJurosWebApiTest.pdb
@@ -104,3 +103,5 @@ C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebApiTest\bin\Debug
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebApiTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebApiTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebApiTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebApiTest\bin\Debug\netcoreapp3.1\Docker.DotNet.dll
+C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\CalculaJurosWebApiTest\obj\Debug\netcoreapp3.1\CalculaJurosWebApiTest.csproj.CoreCompileInputs.cache

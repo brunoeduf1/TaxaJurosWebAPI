@@ -12,7 +12,7 @@ namespace CalculaJurosWebAPI.Models
         public void CalculaResultado(string valorinicial, uint meses)
         {
             double r;
-            double res = 0.0;
+            double val = 0.0;
             bool msgError = false;
 
             Taxa t = new Taxa();
@@ -26,18 +26,17 @@ namespace CalculaJurosWebAPI.Models
 
             else
             {
-                res = Double.Parse(valorinicial, CultureInfo.CurrentCulture);
-                r = res * Math.Pow(1 + t.GetTaxa(), meses);
+                val = Double.Parse(valorinicial, CultureInfo.CurrentCulture);
+                r = val * Math.Pow(1 + t.GetTaxa(), meses);
                 resultado = r.ToString("F2", CultureInfo.CurrentCulture);
             }
 
             //Verifica se o valor inicial é maior que zero
-            if (res <= 0 && msgError == false)
+            if (val <= 0 && msgError == false)
             {
                 resultado = "O valor informado deve ser superior a zero";
                 msgError = true;
             }
-
         }
 
         public static bool IsNumeric(string val)
@@ -59,7 +58,8 @@ namespace CalculaJurosWebAPI.Models
                         isNum = false;
                 }
             }
-                    return isNum;
+            
+            return isNum;
         }
     }
 }

@@ -91,10 +91,15 @@ C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\TaxaJurosWebApiTest\bin\Debug\ne
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\TaxaJurosWebApiTest\bin\Debug\netcoreapp3.1\TaxaJurosWebAPI.pdb
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\TaxaJurosWebApiTest\obj\Debug\netcoreapp3.1\TaxaJurosWebApiTest.AssemblyInfoInputs.cache
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\TaxaJurosWebApiTest\obj\Debug\netcoreapp3.1\TaxaJurosWebApiTest.AssemblyInfo.cs
-C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\TaxaJurosWebApiTest\obj\Debug\netcoreapp3.1\TaxaJurosWebApiTest.csproj.CoreCompileInputs.cache
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\TaxaJurosWebApiTest\obj\Debug\netcoreapp3.1\TaxaJurosWebApiTest.csproj.CopyComplete
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\TaxaJurosWebApiTest\obj\Debug\netcoreapp3.1\TaxaJurosWebApiTest.dll
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\TaxaJurosWebApiTest\obj\Debug\netcoreapp3.1\TaxaJurosWebApiTest.pdb
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\TaxaJurosWebApiTest\obj\Debug\netcoreapp3.1\TaxaJurosWebApiTest.genruntimeconfig.cache
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\TaxaJurosWebApiTest\obj\Debug\netcoreapp3.1\TaxaJurosWebApiTest.csprojAssemblyReference.cache
 C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\TaxaJurosWebApiTest\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\TaxaJurosWebApiTest\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\TaxaJurosWebApiTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\TaxaJurosWebApiTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\TaxaJurosWebApiTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\TaxaJurosWebApiTest\bin\Debug\netcoreapp3.1\Docker.DotNet.dll
+C:\Users\Bruno\Desktop\Curso C#\TaxaJurosWebAPI\TaxaJurosWebApiTest\obj\Debug\netcoreapp3.1\TaxaJurosWebApiTest.csproj.CoreCompileInputs.cache
