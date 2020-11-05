@@ -37,7 +37,8 @@ namespace CalculaJurosWebAPI.Models
                 Resultado = r.ToString("F2", CultureInfo.CurrentCulture);
             }
 
-            if(Resultado.Length > 16 || r == (1 /zero))
+            //Verifica se o resultado excede o limite de caracteres esperados
+            if ((Resultado.Length > 16 || r == (1 /zero)) && msgError == false)
             {
                 Resultado = "Resultado excedeu o limte de caracteres de precisão";
 
