@@ -12,7 +12,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "calculajuros-valorinicial=100&meses=5",
+      "launchUrl": "calculajuros?valorinicial=100&meses=5",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

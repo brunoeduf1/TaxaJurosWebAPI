@@ -6,37 +6,53 @@ namespace CalculaJurosWebAPI.Models
 {
     public class CalculaJuros
     {
+        public string Resultado { get; set; }
 
-        public string resultado { get; set; }
-
-        public void CalculaResultado(string valorinicial, uint meses)
+        public string CalculaResultado(string valorinicial, string meses)
         {
-            double r;
+            double r = 0.0;
             double val = 0.0;
+            uint mes;
             bool msgError = false;
+            double zero = 0.0;
 
             Taxa t = new Taxa();
 
             //Verifica se o valor digitado é um número válido
-            if (!IsNumeric(valorinicial) && msgError == false)
+            if ((!IsNumeric(valorinicial) && msgError == false) || !IsNumeric(meses))
             {
-                resultado = "O valor digitado não é um número válido";
+                Resultado = "Valor e(ou) mês informado(s) inválido(s)";
+
                 msgError = true;
             }
 
             else
             {
                 val = Double.Parse(valorinicial, CultureInfo.CurrentCulture);
-                r = val * Math.Pow(1 + t.GetTaxa(), meses);
-                resultado = r.ToString("F2", CultureInfo.CurrentCulture);
+
+                mes = uint.Parse(meses, CultureInfo.CurrentCulture);
+
+                r = val * Math.Pow(1 + t.GetTaxa(), mes);
+
+                Resultado = r.ToString("F2", CultureInfo.CurrentCulture);
+            }
+
+            if(Resultado.Length > 16 || r == (1 /zero))
+            {
+                Resultado = "Resultado excedeu o limte de caracteres de precisão";
+
+                msgError = true;
             }
 
             //Verifica se o valor inicial é maior que zero
             if (val <= 0 && msgError == false)
             {
-                resultado = "O valor informado deve ser superior a zero";
+                Resultado = "O valor informado deve ser superior a zero";
+
                 msgError = true;
             }
+
+            return Resultado;
         }
 
         public static bool IsNumeric(string val)

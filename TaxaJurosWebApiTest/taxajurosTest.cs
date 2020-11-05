@@ -9,7 +9,7 @@ namespace TaxaJurosWebApiTest
         //Testa se a taxa é 0.01
         [TestMethod]
         [Owner("Bruno")]
-        public void TxValue()
+        public void TestTxValue()
         {
             Taxa tx = new Taxa();
             double str = tx.GetTaxa();

@@ -11,6 +11,7 @@ namespace TaxaJurosWebAPI.Models
         public double GetTaxa()
         {
             double tx = 0.01;
+
             taxajuros = tx.ToString("F2", CultureInfo.CurrentCulture);
 
             return tx;
